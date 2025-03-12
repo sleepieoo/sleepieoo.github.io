@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sleepieoo.github.io</id>
+    <title>安眠地</title>
+    <updated>2025-03-12T01:42:07.811Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sleepieoo.github.io"/>
+    <link rel="self" href="https://sleepieoo.github.io/atom.xml"/>
+    <subtitle>只是个在简中流浪的同人女，给我记好了！</subtitle>
+    <logo>https://sleepieoo.github.io/images/avatar.png</logo>
+    <icon>https://sleepieoo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 安眠地</rights>
+    <entry>
+        <title type="html"><![CDATA[这是一条测试]]></title>
+        <id>https://sleepieoo.github.io/post/test/</id>
+        <link href="https://sleepieoo.github.io/post/test/">
+        </link>
+        <updated>2025-03-06T05:07:17.000Z</updated>
+    </entry>
+</feed>
