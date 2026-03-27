@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sleepieoo.github.io</id>
+    <title>安眠地</title>
+    <updated>2026-03-27T15:05:49.108Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sleepieoo.github.io"/>
+    <link rel="self" href="https://sleepieoo.github.io/atom.xml"/>
+    <subtitle>&lt;font size=&quot;2&quot;&gt;只是个在简中流浪的同人女，给我记好了！&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;&lt;i&gt;最近更新于：2026年3月27日 21点06分&lt;/i&gt;&lt;/blockquote&gt;</subtitle>
+    <logo>https://sleepieoo.github.io/images/avatar.png</logo>
+    <icon>https://sleepieoo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, 安眠地</rights>
+    <entry>
+        <title type="html"><![CDATA[【方花】来日又方长10]]></title>
+        <id>https://sleepieoo.github.io/post/lairiyoufangchang10/</id>
+        <link href="https://sleepieoo.github.io/post/lairiyoufangchang10/">
+        </link>
+        <updated>2026-03-27T10:58:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【方花】来日又方长09]]></title>
+        <id>https://sleepieoo.github.io/post/lairiyoufangchang09/</id>
+        <link href="https://sleepieoo.github.io/post/lairiyoufangchang09/">
+        </link>
+        <updated>2026-03-27T10:57:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【方花】来日又方长08]]></title>
+        <id>https://sleepieoo.github.io/post/lairiyoufangchang08/</id>
+        <link href="https://sleepieoo.github.io/post/lairiyoufangchang08/">
+        </link>
+        <updated>2026-03-27T10:57:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【方花】来日又方长07]]></title>
+        <id>https://sleepieoo.github.io/post/lairiyoufangchang07/</id>
+        <link href="https://sleepieoo.github.io/post/lairiyoufangchang07/">
+        </link>
+        <updated>2026-03-27T10:51:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【方花】来日又方长06]]></title>
+        <id>https://sleepieoo.github.io/post/lairiyoufangchang06/</id>
+        <link href="https://sleepieoo.github.io/post/lairiyoufangchang06/">
+        </link>
+        <updated>2026-03-27T10:51:07.000Z</updated>
+    </entry>
+</feed>
